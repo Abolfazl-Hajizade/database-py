@@ -20,7 +20,7 @@ def About():
 
 	print 
 	print """
-			--- writed tool in 2016 ---
+			--- written tool in 2016 ---
 			
 			--- programmer = abolfazl hajizade ---
 	
