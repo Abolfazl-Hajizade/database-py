@@ -20,9 +20,11 @@ def About():
 
 	print 
 	print """
-			--- Hello I am Abolfazl Hajizae ---
+			--- writed tool in 2016 ---
+			
+			--- programmer = abolfazl hajizade ---
 	
-			--- This App For Saving Your Information ---
+			--- This tool for saving your information ---
 			
 			---- gmail = zeroday1010@gmail.com ----
 			
@@ -64,7 +66,7 @@ def delete_account_database(name = '' , family = '' , phone = '') :
 		print R+"\n[!]"+GR+" Deleted Account !\n"+W
 	
 try:
-	database = sqlite3.connect("man_data.sqlite")
+	database = sqlite3.connect("data.sqlite")
 	print G+"\n----------------------- [+] Connect To Database Now ! -------------------------\n\n"+W
 except Exception:
 	print Y+"-------------- [!] Connected To Database ! ----------------\n"+W
